@@ -1,0 +1,15 @@
+.grid_body{
+    display:grid;
+    grid-template-columns:40% 150px 20% 20%;
+    grid-template-rows:300px 100px 200px 150px ;
+    
+}
+.grid_item{
+    text-align: center;
+    border: 2px dashed rgba(255,255,255,0.2);
+    padding: 30px;
+    
+}
+.wrapper{
+    background-color: rgb(122, 134, 146);
+}
